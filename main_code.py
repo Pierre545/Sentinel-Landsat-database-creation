@@ -9,7 +9,7 @@ import torch
 from torch.utils.data import DataLoader
 from torch.utils.data import TensorDataset
 import sys
-from main_function_beta import main_fct
+from main_function_original import main_fct
 from data_pair.fct_data_extraction import (little_pair, images_pair)
 
 
